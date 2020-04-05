@@ -1,0 +1,32 @@
+header{
+  text-align: center;
+}
+#imd-div{
+  margin: center;
+}
+#image{
+  max-width: 1120px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+#img-caption{
+  padding-top: 10px;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+#tribute-info{
+  text-align: left; 
+  width: 100%;
+  max-width: 1400px;;
+  margin: auto;
+}
+footer{
+  text-align: center;
+}
+li{
+  padding-top: 10px;
+}
